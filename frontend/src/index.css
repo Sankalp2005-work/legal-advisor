@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+  }
+}
+
+.font-serif-heading {
+  font-family: 'Cinzel', serif;
+}
+
+/* Custom glow and backdrop effects */
+.glow-gold {
+  box-shadow: 0 0 40px -10px rgba(217, 119, 6, 0.25);
+}
+
+.glow-subtle {
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
