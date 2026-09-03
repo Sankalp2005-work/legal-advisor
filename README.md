@@ -3,10 +3,9 @@
 This is our college project — an AI-powered legal procedural roadmap generator specialized in **Industrial Law** and **Personal Law**.
 
 ## Team
-- **Project Lead**: Sankalp
-- **Contributors**:
-  1. Aviral
-  2. Ravi
+Ravi Kumar
+Aviral Gautam
+Sankalp Tewari
 
 ## Architecture Overview
 
