@@ -1,6 +1,12 @@
-# LegalLens - Procedural Legal Intelligence Platform
+# LegalLens (Legal-Advisor) - Procedural Legal Intelligence Platform
 
-LegalLens is an AI-powered legal procedural roadmap generator specialized in **Industrial Law** and **Personal Law**.
+This is our college project — an AI-powered legal procedural roadmap generator specialized in **Industrial Law** and **Personal Law**.
+
+## Team
+- **Project Lead**: Sankalp
+- **Contributors**:
+  1. Aviral
+  2. Ravi
 
 ## Architecture Overview
 
